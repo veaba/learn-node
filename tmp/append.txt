@@ -1,0 +1,4 @@
+
+ hello world append file for node.js fs.appendFile function Thu Jan 10 2019 13:41:04 GMT+0800 (GMT+08:00)
+                                                  
+ hello world append file for node.js fs.appendFile function Thu Jan 10 2019 13:41:05 GMT+0800 (GMT+08:00)
